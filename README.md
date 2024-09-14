@@ -1,16 +1,16 @@
-## Hi there 👋
+<!-- Level 1: Simple bio and stats -->
 
-<!--
-**mubashshir199/mubashshir199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Mubashshir!
 
-Here are some ideas to get you started:
+🧑‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💼 Studied [Software Engineering](https://daffodilvarsity.edu.bd/department/swe) at Daffodil International University , Dhaka, Bangladesh<br/>
+
+🎨 Making videos about Web Designing, tech, and productivity on [YouTube](https://youtube.com/@mubashshir199?si=xMDhWfxuqbg0oktu)<br/>
+
+🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/> 
+💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats
+
+[![Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=xsol05&count private=true&show icons=true&theme=radical&hide rank=false)] (https://github.com/anuraghazra/github-readme-stats
