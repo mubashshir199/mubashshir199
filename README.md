@@ -11,6 +11,6 @@
 🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/> 
 💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 
-[![Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=xsol05&count private=true&show icons=true&theme=radical&hide rank=false)] (https://github.com/anuraghazra/github-readme-stats
+[![mubashshir199's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubashshir199)](https://github.com/anuraghazra/github-readme-stats)
